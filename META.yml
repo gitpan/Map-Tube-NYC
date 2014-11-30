@@ -1,0 +1,29 @@
+---
+abstract: 'Interface to the New York City Subway.'
+author:
+  - 'Mohammad S Anwar <mohammad.anwar@yahoo.com>'
+build_requires:
+  Test::More: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 7, CPAN::Meta::Converter version 2.141520'
+license: artistic_2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Map-Tube-NYC
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  File::Share: '0'
+  File::ShareDir::Install: '0'
+  Map::Tube: '2.27'
+  Moo: '0'
+  namespace::clean: '0'
+  perl: '5.006'
+resources:
+  repository: https://github.com/Manwar/Map-Tube-NYC.git
+version: '0.01'
