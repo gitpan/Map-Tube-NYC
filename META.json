@@ -34,7 +34,7 @@
          "requires" : {
             "File::Share" : "0",
             "File::ShareDir::Install" : "0",
-            "Map::Tube" : "2.27",
+            "Map::Tube" : "2.31",
             "Moo" : "0",
             "namespace::clean" : "0",
             "perl" : "5.006"
@@ -49,5 +49,5 @@
          "web" : "https://github.com/Manwar/Map-Tube-NYC"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
