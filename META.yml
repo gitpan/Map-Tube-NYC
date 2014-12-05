@@ -20,10 +20,10 @@ no_index:
 requires:
   File::Share: '0'
   File::ShareDir::Install: '0'
-  Map::Tube: '2.31'
+  Map::Tube: '2.33'
   Moo: '0'
   namespace::clean: '0'
   perl: '5.006'
 resources:
   repository: https://github.com/Manwar/Map-Tube-NYC.git
-version: '0.04'
+version: '0.05'
