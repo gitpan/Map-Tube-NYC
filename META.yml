@@ -20,10 +20,10 @@ no_index:
 provides:
   Map::Tube::NYC:
     file: lib/Map/Tube/NYC.pm
-    version: '0.09'
+    version: '0.10'
   Map::Tube::NYC::Line::INDEighthAvenue:
     file: lib/Map/Tube/NYC/Line/INDEighthAvenue.pm
-    version: '0.09'
+    version: '0.10'
 requires:
   File::Share: '0'
   File::ShareDir::Install: '0'
@@ -33,5 +33,5 @@ requires:
   perl: '5.006'
 resources:
   repository: https://github.com/Manwar/Map-Tube-NYC.git
-version: '0.09'
+version: '0.10'
 
